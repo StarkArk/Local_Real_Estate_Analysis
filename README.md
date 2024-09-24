@@ -6,7 +6,7 @@ Using Zillow sales data pulled for the last 3 years(Sept21 - Aug24) I analyze an
 
 The CompCrunch chrome extension was used to pull the necessary data from Zillow.
 
-#### For the analysis 'Starter Homes' are:
+#### For this analysis, 'Starter Homes' are:
 
 - Less than 1400 square feet
 - Were sold for between $250k and $1,250k
