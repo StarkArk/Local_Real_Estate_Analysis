@@ -1,4 +1,4 @@
-
+![3 Years of Starter Home Sales](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/monthlysalesstarterhomes.svg)
 
 ## Overview
 
