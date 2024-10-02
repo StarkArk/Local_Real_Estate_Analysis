@@ -6,15 +6,15 @@ Explore the Starter Home Market of the Conejo Valley Area in Southern California
 
 #### Select Questions
 
-&emsp; - What is the price range for a typical Starter Home?
+&emsp; - What is the price range for a typical Starter Home? 
 
-&emsp; - How many have been sold in the last year?
+&emsp; - How many have been sold in the last year? 
 
-&emsp; - Where in the valley are they located?
+&emsp; - Where in the valley are they located? 
 
-&emsp; - What is the most popular configuration of Bedrooms and Bathrooms?
+&emsp; - What is the most popular configuration of Bedrooms and Bathrooms? 
 
-&emsp; - Is a Starter Home a good deal?
+&emsp; - Is a Starter Home a good deal? 
 
 ## Starter Homes and Local Real Estate
 
