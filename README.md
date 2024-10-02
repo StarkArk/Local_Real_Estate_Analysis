@@ -27,9 +27,9 @@ Typically a Starter Home is defined as a small affordable home. This analyis def
 #### The Data Set
 
 
-&emsp; - Zillow sales data pulled for the last 3 years(Sept21 - Aug24), I analyze and explore the 'Starter Home' market.
-&emsp; - The CompCrunch chrome extension was used to facilitate the data pull from Zillow. 
-&emsp; - CSV files were combined for the six zipcodes(91301, 91320, 91360, 91361, 91362, 91377) and a dataset with 1413 
+&emsp; - Zillow sales data pulled for the last 3 years(Sept21 - Aug24), I analyze and explore the 'Starter Home' market.  
+&emsp; - The CompCrunch chrome extension was used to facilitate the data pull from Zillow.  
+&emsp; - CSV files were combined for the six zipcodes(91301, 91320, 91360, 91361, 91362, 91377) and a dataset with 1413  
 &emsp; properties was created. This was further cleaned and filtered down, using our criteria, to 563 sold properties.
 
 &emsp; **Data Columns**: 
