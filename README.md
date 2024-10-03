@@ -32,19 +32,20 @@ Typically a Starter Home is defined as a small affordable home. This analyis def
 &emsp; - CSV files were combined for the six zipcodes(91301, 91320, 91360, 91361, 91362, 91377).  
 &emsp; - Cleaned and filtered down to 583 properties
 
-&emsp; **Data Columns**: address, zipCode, city, state, price, bed, bath, sqft,
+**Data Columns**: address, zipCode, city, state, price, bed, bath, sqft,
        pricePerSf, lotArea, lotAreaType, dateSold, dateSoldNumeric,
        zillowUrl, latitude, longitude, homeType, zestimate,
        rentZestimate, imageUrl
-&emsp; &emsp; - 
-&emsp; &emsp; -
-&emsp; &emsp; -
-&emsp; &emsp; -
-&emsp; &emsp; -
-&emsp; &emsp; -
-&emsp; &emsp; -
-&emsp; &emsp; -
 
-#### Overview
+## Analysis
 
-The vast majority of Starter Homes sold for between 
+#### Price Range
+
+The vast majority of Starter Homes, 90%, sold for between $500k and $977k.  
+  
+![Starter Home Prices 3 years](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/starterhomesoldbyprice_last3yrs.svg)  
+  
+Here are the prices broken down by City.  
+  
+![City Prices last 3 years](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/pricebycity_last3yrs_boxplot.svg)  
+
