@@ -51,7 +51,7 @@ Here are the prices broken down by City.
   
 #### Last Year Sales  
   
-Most Starter Homes were sold in Thousand Oaks. And no Starter Homes were sold in Newbury Park in the 12 months ending August 2024.  
+In the last year(Sept23-Aug24) 165 Starter Homes were sold and most were located in Thousand Oaks. No Starter Homes were sold in Newbury Park in the 12 months ending August 2024.  
   
 ![Where were the Starter Homes Sold?](Images/starterhomelocation_lastyear.svg)  
   
