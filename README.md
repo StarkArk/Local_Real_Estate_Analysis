@@ -44,20 +44,31 @@ Typically a Starter Home is defined as a small affordable home. This analyis def
 The vast majority of Starter Homes, 90%, sold for between $500k and $977k.  
   
 ![Starter Home Prices 3 years](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/starterhomesoldbyprice_last3yrs.svg)  
-  
+    
 Here are the prices broken down by City.  
   
 ![City Prices last 3 years](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/pricebycity_last3yrs_boxplot.svg)  
   
-#### Last Year Sales  
+#### Sales, Where and How Many?
   
 In the last year(Sept23-Aug24) 165 Starter Homes were sold and most were located in Thousand Oaks. No Starter Homes were sold in Newbury Park in the 12 months ending August 2024.  
-  
+   
+**Last Year**  
+    
 ![Where were last years Starter Homes Sold?](Images/starterhomelocation_lastyear.svg)  
-
-#### Last Three Years  
   
-![Where were the Starter Homes Sold, Last Three Years?](Images/starterhomelocation_last3year.svg) 
+**Last Three Years**  
+
+583 homes sold    
+  
+![Where were the Starter Homes Sold, Last Three Years?](Images/starterhomelocation_last3year.svg)  
+
+#### The Ideal Starter Home  
+  
+By far, the most popular configuration for a Starter Home in the Area is a 3 Bedroom / 2 Bath residence.  
+  
+![3 Bed 2 Bath most popular config](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/mostcommonconfig_3_2.svg)  
+
   
 
   
