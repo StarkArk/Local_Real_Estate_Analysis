@@ -57,7 +57,7 @@ In the last year(Sept23-Aug24) 165 Starter Homes were sold and most were located
 
 #### Last Three Years  
   
-![Where were the Starter Homes Sold, Last Three Years?](Images/starterhomelocation_lastyear.svg) 
+![Where were the Starter Homes Sold, Last Three Years?](Images/starterhomelocation_last3year.svg) 
   
 
   
