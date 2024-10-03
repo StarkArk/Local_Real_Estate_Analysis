@@ -48,4 +48,14 @@ The vast majority of Starter Homes, 90%, sold for between $500k and $977k.
 Here are the prices broken down by City.  
   
 ![City Prices last 3 years](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/pricebycity_last3yrs_boxplot.svg)  
+  
+#### Last Year Sales  
+  
+Most Starter Homes were sold in Thousand Oaks. And no Starter Homes were sold in Newbury Park in the 12 months ending August 2024.  
+  
+![Where were the Starter Homes Sold?](Images/starterhomelocation_lastyear.svg)  
+  
+
+  
+
 
