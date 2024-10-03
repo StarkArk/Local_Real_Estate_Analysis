@@ -54,13 +54,13 @@ Here are the prices broken down by City.
 In the last year(Sept23-Aug24) 165 Starter Homes were sold and most were located in Thousand Oaks. No Starter Homes were sold in Newbury Park in the 12 months ending August 2024.  
    
 **Last Year**  
-    
+
+165 homes sold    
 ![Where were last years Starter Homes Sold?](Images/starterhomelocation_lastyear.svg)  
   
 **Last Three Years**  
 
-583 homes sold    
-  
+583 homes sold     
 ![Where were the Starter Homes Sold, Last Three Years?](Images/starterhomelocation_last3year.svg)  
 
 #### The Ideal Starter Home  
@@ -68,6 +68,13 @@ In the last year(Sept23-Aug24) 165 Starter Homes were sold and most were located
 By far, the most popular configuration for a Starter Home in the Area is a 3 Bedroom / 2 Bath residence.  
   
 ![3 Bed 2 Bath most popular config](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/mostcommonconfig_3_2.svg)  
+
+#### Is it a Good Deal?  
+
+
+To make a comparison between Starter Homes and All Homes I use price($) per square foot. The average Starter Home is ~$630/sqft while the average for all homes in the area is ~$560/sqft. This suggests that Starter Homes may not be a 'Good Deal' as they are more expensive in terms of price paid per square foot.  
+
+![Comparing Price per Square Foot](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/mostcommonconfig_3_2.svg)     
 
   
 
