@@ -72,9 +72,9 @@ By far, the most popular configuration for a Starter Home in the Area is a 3 Bed
 #### Is it a Good Deal?  
 
 
-To make a comparison between Starter Homes and All Homes I use price($) per square foot. The average Starter Home is ~$630/sqft while the average for all homes in the area is ~$560/sqft. This suggests that Starter Homes may not be a 'Good Deal' as they are more expensive in terms of price paid per square foot.  
+To make a comparison between Starter Homes and Other Homes I use price($) per square foot. The average Starter Home is ~$630/sqft while the average for Other homes in the area is ~$560/sqft. This suggests that Starter Homes may not be a 'Good Deal' as they are more expensive in terms of price paid per square foot.  
 
-![Comparing Price per Square Foot](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/mostcommonconfig_3_2.svg)     
+![Comparing Price per Square Foot](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/pricepersf_boxplot_comparison.svg)     
 
   
 
