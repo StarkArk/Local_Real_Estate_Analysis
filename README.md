@@ -82,9 +82,14 @@ To make a comparison between Starter Homes and Other Homes I use price($) per sq
   
 The Conejo Valley in Southern California is a great place to live and raise a family. But, the affordability of homes makes it more difficult for a family starting out.  
 
-The typical starter home has 3 bedrooms and 2 baths and is priced at between 500 and 800 dollars a square. The vast majority, over 70%, of these small and more affordable (for the area) homes are located in the City of Thousand Oaks.
+The typical starter home has 3 bedrooms and 2 baths and is priced at between 500 and 800 dollars a square foot. The vast majority, over 70%, of these small and more affordable (for the area) homes are located in the City of Thousand Oaks. Overall, the supply of 'Starter' homes is small with less than 600 being sold in the last three years ending August 2024. The Conejo Valley area has a sizeable population of over 400,000 individuals.   
 
-The average 'Starter' home in the area is priced at $725k and ranges from $500k to $1,000k. This is a difficult sum to pay for the average new family in their early thirties who are roughly at the beginning of their careers. Prices that are only attainable for households in the top 20% income in California (over $135k) or with significant downpayment help from others. These are only homes that are only comfortably affordable for the richest 10% of California Households.  
+The average 'Starter' home in the area is priced at $725k and ranges from approximately $500k to $1,000k. This is a difficult sum to pay for the average new family in their early thirties or younger. Unfortunately, these prices make a starter home less attainable for households not in the top 20% of household incomes for California (over $135k) or with significant downpayment help. These homes are only comfortably affordable for the richest 10% of California Households.  
+  
+## Methods and References  
+  
+Population Statistics - [Statistical Atlas](https://statisticalatlas.com/state/California/Household-Income)
+
   
 
 
