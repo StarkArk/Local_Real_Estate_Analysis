@@ -2,7 +2,7 @@
 
 ## Overview
 
-Explore the Starter Home Market of the Conejo Valley Area in Southern California. 
+Explore the Starter Home Market in the Conejo Valley Area of Southern California. 
 
 #### Select Questions
 
@@ -10,7 +10,9 @@ Explore the Starter Home Market of the Conejo Valley Area in Southern California
 &emsp; - How many have been sold in the last year?  
 &emsp; - Where in the valley are they located?  
 &emsp; - What is the most popular configuration of Bedrooms and Bathrooms?  
-&emsp; - Is a Starter Home a good deal? 
+&emsp; - Is a Starter Home a good deal?  
+
+Affordability is addressed in the conclusion. 
 
 ## Starter Homes and Local Real Estate
 
@@ -60,7 +62,7 @@ In the last year(Sept23-Aug24) 165 Starter Homes were sold and most were located
   
 **Last Three Years**  
 
-583 homes sold     
+563 homes sold     
 ![Where were the Starter Homes Sold, Last Three Years?](Images/starterhomelocation_last3year.svg)  
 
 #### The Ideal Starter Home  
@@ -74,7 +76,17 @@ By far, the most popular configuration for a Starter Home in the Area is a 3 Bed
 
 To make a comparison between Starter Homes and Other Homes I use price($) per square foot. The average Starter Home is ~$630/sqft while the average for Other homes in the area is ~$560/sqft. This suggests that Starter Homes may not be a 'Good Deal' as they are more expensive in terms of price paid per square foot.  
 
-![Comparing Price per Square Foot](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/pricepersf_boxplot_comparison.svg)     
+![Comparing Price per Square Foot](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/pricepersf_boxplot_comparison.svg)  
+
+## Conclusion  
+  
+The Conejo Valley in Southern California is a great place to live and raise a family. But, the affordability of homes makes it more difficult for a family starting out.  
+
+The typical starter home has 3 bedrooms and 2 baths and is priced at between 500 and 800 dollars a square. The vast majority, over 70%, of these small and more affordable (for the area) homes are located in the City of Thousand Oaks.
+
+The average 'Starter' home in the area is priced at $725k and ranges from $500k to $1,000k. This is a difficult sum to pay for the average new family in their early thirties who are roughly at the beginning of their careers. Prices that are only attainable for households in the top 20% income in California (over $135k) or with significant downpayment help from others. These are only homes that are only comfortably affordable for the richest 10% of California Households.  
+  
+
 
   
 
