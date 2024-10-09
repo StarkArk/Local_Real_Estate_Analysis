@@ -31,7 +31,7 @@ Typically a Starter Home is defined as a small affordable home. This analyis def
 
 &emsp; - Zillow sales data pulled for the last 3 years(Sept21 - Aug24)  
 &emsp; - The CompCrunch chrome extension was used to facilitate the data pull from Zillow  
-&emsp; - CSV files were combined for the six zipcodes(91301, 91320, 91360, 91361, 91362, 91377).  
+&emsp; - CSV files were combined for the six zipcodes(91301, 91320, 91360, 91361, 91362, 91377)  
 &emsp; - Cleaned and filtered down to 583 properties
 
 **Data Columns**: address, zipCode, city, state, price, bed, bath, sqft,
@@ -43,7 +43,7 @@ Typically a Starter Home is defined as a small affordable home. This analyis def
 
 #### Price Range
 
-The vast majority of Starter Homes, 90%, sold for between $500k and $977k.  
+The vast majority of Starter Homes, 90%, sold for between $500k and $977k with a median value of $725k.  
   
 ![Starter Home Prices 3 years](https://github.com/StarkArk/Local_Starter_Homes/blob/main/Images/starterhomesoldbyprice_last3yrs.svg)  
     
@@ -82,13 +82,17 @@ To make a comparison between Starter Homes and Other Homes I use price($) per sq
   
 The Conejo Valley in Southern California is a great place to live and raise a family. But, the affordability of homes makes it more difficult for a family starting out.  
 
-The typical starter home has 3 bedrooms and 2 baths and is priced at between 500 and 800 dollars a square foot. The vast majority, over 70%, of these small and more affordable (for the area) homes are located in the City of Thousand Oaks. Overall, the supply of 'Starter' homes is small with less than 600 being sold in the last three years ending August 2024. The Conejo Valley area has a sizeable population of over 400,000 individuals.   
+The typical starter home has 3 bedrooms, 2 baths, and is priced at between 500 and 800 dollars a square foot. The vast majority, over 70%, of these small and more affordable, for the area, homes are located in the City of Thousand Oaks. Overall, the supply of 'Starter' homes is small with less than 600 being sold in the last three years ending August 2024. The Conejo Valley area has a sizeable population of over 400,000 individuals.   
 
-The average 'Starter' home in the area is priced at $725k and ranges from approximately $500k to $1,000k. This is a difficult sum to pay for the average new family in their early thirties or younger. Unfortunately, these prices make a starter home less attainable for households not in the top 20% of household incomes for California (over $135k) or with significant downpayment help. These homes are only comfortably affordable for the richest 10% of California Households.  
+The average 'Starter' home in the area is priced at $725k and ranges from approximately $500k to $1,000k. This is a difficult sum to pay for the average new family in their early thirties or younger. Unfortunately, these prices make a starter home less attainable for households not in the top 20% of household incomes for California(over $176k) or with significant downpayment help. These homes are only comfortably affordable for the richest 10% of California Households(over $259k).  
   
 ## Methods and References  
   
-Population Statistics - [Statistical Atlas](https://statisticalatlas.com/state/California/Household-Income)
+CompCrunch - Chrome Extension used to easily pull data from zillow.com.
+
+Population Statistics - [Statistical Atlas](https://statisticalatlas.com/state/California/Household-Income)  
+  
+Household Income Percentile - [DQYDJ Calculator](https://dqydj.com/income-by-state/)
 
   
 
