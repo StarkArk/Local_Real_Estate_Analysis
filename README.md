@@ -92,7 +92,7 @@ CompCrunch - Chrome Extension used to easily pull data from zillow.com.
 
 Population Statistics - [Statistical Atlas](https://statisticalatlas.com/state/California/Household-Income)  
   
-Household Income Percentile - [DQYDJ Calculator](https://dqydj.com/income-by-state/)
+Household Income Percentile(2023) - [DQYDJ Calculator](https://dqydj.com/income-by-state/)
 
   
 
