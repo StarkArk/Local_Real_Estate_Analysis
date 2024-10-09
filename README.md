@@ -16,7 +16,7 @@ Affordability is addressed in the conclusion.
 
 ## Starter Homes and Local Real Estate
 
-I live in The Conejo Valley area of Southern California. Located about ten miles inland and separated by a mountain range from the ocean. The climate is cool in the summer and warm in the winter. Moreover, it's conveniently situated near the San Fernando Valley and Los Angeles area. The Conejo Valley includes some or all of the cities of Thousand Oaks, Newbury Park, Oak Park, Agoura Hills, Westlake Village, and Calabasas. 
+I live in The Conejo Valley area of Southern California. Located about ten miles inland and separated by a mountain range from the ocean. Compared to other inland areas, the climate is cool in the summer and warm in the winter. Moreover, it's conveniently situated near the San Fernando Valley and Los Angeles area. The Conejo Valley includes some or all of the cities of Thousand Oaks, Newbury Park, Oak Park, Agoura Hills, Westlake Village, and Calabasas. 
 
 The area is ideal for commuting both North and South. A perfect place for a family to live and work. That is if you can afford it... 
 
